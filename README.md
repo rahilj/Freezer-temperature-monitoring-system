@@ -1,0 +1,2 @@
+# Freezer-temperature-monitoring-system
+A low-cost, DIY temperature monitoring system for tracking temperature of fridge and freezers in a research lab setting. Setup consists of a central WiFi microcontroller (Particle.io P1/Photon) connected to TMP36 temperature sensor. The temperature data from sensor is logged periodically to free-to-use Google spreadsheet service. Users are notified by text/email when temperature deviates from set limits.  
